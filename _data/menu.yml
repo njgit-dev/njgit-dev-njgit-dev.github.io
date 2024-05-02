@@ -13,15 +13,12 @@ main:
   - name: Blog
     url: /blog/
     weight: 2
-  - name: Blog
-    url: /blog/
-    weight: 4
   - name: About
     url: /about/
-    weight: 5
-  - name: Buy Now
-    url: https://www.zerostatic.io/theme/jekyll-advance/
-    weight: 6
+    weight: 3
+  - name: Get Started
+    url: /getstarted/
+    weight: 4
 footer_primary:
   - name: Home
     url: /
@@ -29,12 +26,6 @@ footer_primary:
   - name: Services
     url: /services/
     weight: 2
-  - name: Projects
-    url: /projects/
-    weight: 3
-  - name: Team
-    url: /team/
-    weight: 4
 footer_secondary:
   - name: Blog
     url: /blog/
@@ -52,8 +43,8 @@ footer_tertiary:
   - name: Terms and Conditions
     url: /terms-and-conditions/
     weight: 2
-  - name: Buy Now
-    url: https://www.zerostatic.io/theme/jekyll-advance/
+  - name: Get Started
+    url: /getstarted/
     weight: 3
 bottom:
   - name: Privacy Policy
