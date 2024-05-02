@@ -124,15 +124,15 @@ fonts:
   logo: "Lato"
 
 logo:
-  logo_text: "Jekyll Advance"
-  logo_image: assets/images/logo/logo.png
-  logo_image_mobile: assets/images/logo/logo-mobile.png
-  logo_image_invert: assets/images/logo/logo-invert.png
-  logo_image_invert_mobile: assets/images/logo/logo-invert-mobile.png
+  logo_text: "Distributed Witness"
+  logo_image: assets/images/logo/dwlogo.svg
+  logo_image_mobile: assets/images/logo/dwlogo-mobile.svg
+  logo_image_invert: assets/images/logo/dwlogo-invert.svg
+  logo_image_invert_mobile: assets/images/logo/dwlogo-invert-mobile.svg
   logo_image_desktop_height: "30px"
-  logo_image_desktop_width: "132px"
+  logo_image_desktop_width: "323px"
   logo_image_mobile_height: "30px"
-  logo_image_mobile_width: "34px"
+  logo_image_mobile_width: "36px"
   show_logo_image_on_mobile: true
   show_logo_image_on_desktop: true
   show_logo_text_on_mobile: false
