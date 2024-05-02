@@ -160,9 +160,9 @@ cookie_banner:
 analytics:
   google_analytics_id: "G-SL5FWY00S6" # G-XXXXXXXXXX
   gtm_id: "" # GTM-XXXXXXXX
-  plausible_data_domain: "" # example: mywebsite.com
-  umami_data_website_id: "" # example: "ddd14336-5fb0-4cdd-8f32-e1bfa906cc2b"
-  umami_src: "" # "https://analytics.eu.umami.is/script.js"
+  plausible_data_domain: "" 
+  umami_data_website_id: "" 
+  umami_src: "" 
 
 comments:
   commento:
@@ -172,13 +172,13 @@ comments:
 
 newsletter:
   mailchimp:
-    form_action_url: https://zerostatic.us21.list-manage.com/subscribe/post?u=798e19886b83aaab346734382&amp;id=f1c526a772&amp;f_id=0027e3e6f0
+    form_action_url: https://distributedwitness.us22.list-manage.com/subscribe/post?u=1638193ffa7195cf8dbb484bb&amp;id=30b6f041bc&amp;f_id=0071cae1f0
     form_title: "Let's keep in touch"
 
 contact_form: 
-  use_netlify_form: true
-  use_formspree_form: false
-  formspree_endpoint: https://formspree.io/f/moqyklqv
+  use_netlify_form: false
+  use_formspree_form: true
+  formspree_endpoint: https://formspree.io/f/xdoqyvbg
   netlify_form_name: "contact"
 
 menu: 
