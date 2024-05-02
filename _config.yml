@@ -166,9 +166,9 @@ analytics:
 
 comments:
   commento:
-    enabled: true # you must have a commento account and be on the correct domain. does not work locally.
+    enabled: true 
   disqus:
-    shortname: "" # Your disqus shortcode for example "zerostatic". leave this blank ie "" to disable.
+    shortname: "" 
 
 newsletter:
   mailchimp:
@@ -186,9 +186,9 @@ menu:
   show_social_media_in_mobile_menu: true
 
 footer:
-  enable_footer: true # show/hide the entire footer
-  footer_title: "Jekyll Advance"
-  footer_description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+  enable_footer: true 
+  footer_title: "Distributed Witness"
+  footer_description: "Leading the way in digital integrity with state-of-the-art deepfake detection technology. Protect your organization from digital threats with our AI-powered solutions."
   enable_social_media_icons: true
   enable_contact_details: true
   enable_menu_footer_primary: true
