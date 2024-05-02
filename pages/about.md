@@ -3,10 +3,11 @@ layout: basic
 title: "About Us"
 date: 2018-11-28T15:15:34+10:00
 header_transparent: false
+meta_title: About Us - Distributed Witness
 permalink: "/about/"
 description: "Business plan hackathon handshake responsive web design."
 image: "/assets/images/gen/content/content-5.webp"
-meta_title: Distributed Witness
+
 
 hero:
   enabled: false
