@@ -8,8 +8,8 @@ meta_title: Distributed Witness
 
 hero:
   enabled: true
-  heading: "Jekyll Advance"
-  sub_heading: "Built using highly configurable sections, Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+  heading: "Shielding Reality from Digital Distortion"
+  sub_heading: "Know People and Data are Authentic. Make Better Decisions Knowing What is Genuine."
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true
@@ -21,20 +21,13 @@ hero:
   buttons:
     enabled: false
     list:
-      - text: "Buy Now"
-        url: "https://www.zerostatic.io/theme/jekyll-advance/"
+      - text: "Get Started"
+        url: ""
         external: true
         fa_icon: false
         size: large # "small", "normal", "large"
         outline: false
         style: "light" # "light", "dark", "primary"
-      - text: "Documentation"
-        url: "https://www.zerostatic.io/docs/jekyll-advance/v2.0/"
-        external: true
-        fa_icon: false
-        size: large
-        outline: true
-        style: "light"
 
 services:
   enabled: true
