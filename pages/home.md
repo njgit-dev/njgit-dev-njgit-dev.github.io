@@ -28,6 +28,13 @@ hero:
         size: large # "small", "normal", "large"
         outline: false
         style: "light" # "light", "dark", "primary"
+      - text: "Documentation"
+        url: ""
+        external: true
+        fa_icon: false
+        size: large
+        outline: true
+        style: "light"
 
 services:
   enabled: true
