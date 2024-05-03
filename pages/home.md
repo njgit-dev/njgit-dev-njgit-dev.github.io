@@ -9,7 +9,7 @@ meta_title: Distributed Witness
 hero:
   enabled: true
   heading: "Shielding Reality from Digital Distortion"
-  sub_heading: "Know People and Data are Authentic. Make Better Decisions Knowing What is Genuine."
+  sub_heading: "Know People and Data are Authentic."
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true
